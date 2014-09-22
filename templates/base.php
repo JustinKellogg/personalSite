@@ -12,9 +12,8 @@
         <link rel="stylesheet" type="text/css" href="static/js/jquery-ui/jquery-ui.min.css">
         <script type="text/javascript" src="static/js/jquery-ui/external/jquery/jquery.js"></script>
         <script type="text/javascript" src="static/js/jquery-ui/jquery-ui.js"></script>
-
-<!--        <script type="text/javascript" src="static/js/jquery-1.11.1.js"></script> -->
-        <script type="text/javascript" src="static/js/tabs.js"></script>
+        <script type="text/javascript" src="static/js/home.js"></script>
+        <script type="text/javascript" src="static/js/github.js"></script>
     </head>
 
     <body>

@@ -15,38 +15,27 @@
         </ul>
 
         <div id="tabs-1">
-            <img class="experience_image" src="static/images/pict.jpeg" height="168" width="84" alt="pretty">
-            <p> Some text saying some stuff I did </p>
+            <?php include "templates/work.php" ?>
         </div>
 
         <div id="tabs-2">
-            <p> Use star ratings</p>
+            <?php include "templates/skills.php" ?>
         </div>
 
         <div id="tabs-3">
-            <p> use accordians</p>
+            <?php include "templates/work.php" ?>
         </div>
 
         <div id="tabs-4">
-            <div id="github-tabs">
-                <ul>
-                    <li><a href="#tabs-4">General</a><li>
-                </ul>
-                <div id="github-tabs-1">
-                   <div id="ghapidata" class="clearfix"></div>
-                </div>
-            </div>
+            <?php include "templates/github.php" ?>
         </div>
 
-
-
         <div id="tabs-5">
-            <p> not sure what style I want here </p>
+            <?php include "templates/goodreads.php" ?>
         </div>
 
         <div id="tabs-6">
-            make better pdf display
-            <iframe src="static/resume.pdf" frameborder="0" height="100%" width="100%"></iframe>
+            <?php include "templates/goodreads.php" ?>
         </div>
     </div>
 </body>
